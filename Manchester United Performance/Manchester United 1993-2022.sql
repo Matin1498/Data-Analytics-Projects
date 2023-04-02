@@ -86,14 +86,3 @@ FROM(
 GROUP BY season_year
 ORDER BY season_year ASC
 	
-	
-
-
-
-
-
-
-
-
-
-
