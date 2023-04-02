@@ -9,7 +9,7 @@ This is in stark contrast to Sir Alex Ferguson's own record, as he had never exp
 
 Another interesting finding from this analysis was that Jose Mourinho's strategy of "parking the bus" may have been effective during his first season as manager of Manchester United. Mourinho's tactics were often criticized for being overly defensive and not in keeping with the attacking traditions of the club, but the data suggests that his approach did lead to some positive outcomes.
 
-![](<img width="730" alt="goals" src="https://user-images.githubusercontent.com/5778184/229334686-00336b91-7f89-4f51-963c-3301826c23e6.png">)
+<img width="730" alt="goals" src="https://user-images.githubusercontent.com/5778184/229334686-00336b91-7f89-4f51-963c-3301826c23e6.png">
 
 During Mourinho's first season as manager, Manchester United had the lowest number of losses in a single season since Sir Alex Ferguson's tenure. This could be seen as evidence that Mourinho's defensive tactics helped to prevent the team from losing games. Additionally, Mourinho's first season saw Manchester United record the highest number of draws in the Premier League since the start of the 1993-1994 season, indicating that his approach may have helped the team to grind out results in difficult matches.
 
