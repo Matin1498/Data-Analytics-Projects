@@ -9,12 +9,15 @@ This is in stark contrast to Sir Alex Ferguson's own record, as he had never exp
 
 Another interesting finding from this analysis was that Jose Mourinho's strategy of "parking the bus" may have been effective during his first season as manager of Manchester United. Mourinho's tactics were often criticized for being overly defensive and not in keeping with the attacking traditions of the club, but the data suggests that his approach did lead to some positive outcomes.
 
-![Mourinho at Manchester United](https://media.gq-magazine.co.uk/photos/5d139b9a53f798f0a71e8ead/3:2/w_1920,h_1280,c_limit/Jose-Mourinho-GQ-7Jul16_pa_b.jpg)
+![](<img width="730" alt="goals" src="https://user-images.githubusercontent.com/5778184/229334686-00336b91-7f89-4f51-963c-3301826c23e6.png">
+)
 
 During Mourinho's first season as manager, Manchester United had the lowest number of losses in a single season since Sir Alex Ferguson's tenure. This could be seen as evidence that Mourinho's defensive tactics helped to prevent the team from losing games. Additionally, Mourinho's first season saw Manchester United record the highest number of draws in the Premier League since the start of the 1993-1994 season, indicating that his approach may have helped the team to grind out results in difficult matches.
 
 In addition to having the lowest number of losses in a single season after Sir Alex Ferguson, Jose Mourinho's first season as manager of Manchester United also saw the team score the second-lowest number of goals in a single season since the start of the Premier League in 1993. This finding suggests that while Mourinho's tactics may have been effective in preventing losses, they may have come at the cost of reducing the team's attacking output.
 Jose Mourinho's time as manager of Manchester United was marked by a number of controversies and challenges, including a lack of support from the board in the transfer market. Despite leading the team to second place in the Premier League in his second season, Mourinho was ultimately sacked after a poor start to his third season and increasing concerns about the team's performances on the pitch.
+
+![Mourinho at Manchester United](https://media.gq-magazine.co.uk/photos/5d139b9a53f798f0a71e8ead/3:2/w_1920,h_1280,c_limit/Jose-Mourinho-GQ-7Jul16_pa_b.jpg)
 
 One key factor that may have contributed to Mourinho's struggles was a lack of investment in the team's defense. Mourinho repeatedly called for the board to sign a world-class center-back to shore up the team's defense, but his requests were largely ignored. Instead, the team brought in Diogo Dalot, Fred, and Lee Grant, none of whom were considered to be significant defensive reinforcements.
 
