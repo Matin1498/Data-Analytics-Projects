@@ -18,7 +18,7 @@ Jose Mourinho's time as manager of Manchester United was marked by a number of c
 
 ![Mourinho at Manchester United](https://media.gq-magazine.co.uk/photos/5d139b9a53f798f0a71e8ead/3:2/w_1920,h_1280,c_limit/Jose-Mourinho-GQ-7Jul16_pa_b.jpg)
 
-One key factor that may have contributed to Mourinho's struggles was a lack of investment in the team's defense. Mourinho repeatedly called for the board to sign a world-class center-back to shore up the team's defense, but his requests were largely ignored. Instead, the team brought in Diogo Dalot, Fred, and Lee Grant, none of whom were considered to be significant defensive reinforcements.
+One key factor that may have contributed to Mourinho's struggles was a lack of investment in the team's defence. Mourinho repeatedly called for the board to sign a world-class center-back to shore up the team's defence, but his requests were largely ignored. Instead, the team brought in Diogo Dalot, Fred, and Lee Grant, none of whom were considered to be significant defensive reinforcements.
 
-As a result of this lack of investment in the team's defense, Manchester United's goals conceded rose from 28 in Mourinho's second season to 54 in his third and final season, a stark increase that suggests that the team's defensive problems were not adequately addressed. This finding highlights the importance of investing in the right areas of the team and providing managers with the resources they need to succeed.
+As a result of this lack of investment in the team's defence, Manchester United's goals conceded rose from 28 in Mourinho's second season to 54 in his third and final season, a stark increase that suggests that the team's defensive problems were not adequately addressed. This finding highlights the importance of investing in the right areas of the team and providing managers with the resources they need to succeed.
 
