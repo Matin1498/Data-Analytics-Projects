@@ -1,3 +1,5 @@
+# Manchester United's Performance Post Sir Alex Ferguson
+
 One of the interesting findings from this analysis was that during Sir Alex Ferguson's time as manager, Manchester United had a significantly higher win average in the Premier League compared to after he left. 
 
 In fact, their average number of wins in the Premier League during Sir Alex Ferguson's era was higher than 21. However, after Sir Alex Ferguson left in 2013, Manchester United's performance in the Premier League declined significantly. 
