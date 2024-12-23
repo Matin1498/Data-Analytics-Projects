@@ -17,3 +17,5 @@ Using bar charts, the project highlights trends in the industry, helping to iden
 - **Most Popular Genres**: Displays the most successful video game genres by sales.
 - **Leading Platforms**: Compares the sales performance of different gaming platforms.
 - **Top Publishers**: Identifies the most dominant game publishers in terms of sales.
+
+![Image Description]("https://github.com/Matin1498/Data-Analytics-Projects/blob/main/Video%20Games%20Sale/Video-Games-Sale.png")
